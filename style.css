@@ -334,7 +334,7 @@ footer a {
   transition: color 180ms ease;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
   .site-header {
     padding-top: 22px;
   }
